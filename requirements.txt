@@ -1,0 +1,9 @@
+flask
+langchain-community
+openai
+beautifulsoup4
+requests
+numpy
+faiss-cpu
+python-dotenv
+tiktoken
